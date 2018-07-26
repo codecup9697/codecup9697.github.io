@@ -20,4 +20,4 @@
      <center><h5><font size=100px color=white face="ties new romen">I am ice !</font></h5></center> 
           <center><h5><font size=100px color=white face="ties new romen">I am ice !</font></h5></center> 
           <center><h5><font size=100px color=white face="ties new romen">I am ice !</font></h5></center>         
-https://user-images.githubusercontent.com/39056428/43275067-5c968562-90f0-11e8-8463-f4c74a0baad5.jpg)
+![codecup-manual](https://user-images.githubusercontent.com/39056428/43275067-5c968562-90f0-11e8-8463-f4c74a0baad5.jpg)
